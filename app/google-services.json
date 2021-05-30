@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1022988807157",
+    "firebase_url": "https://person---szte-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "person---szte",
+    "storage_bucket": "person---szte.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1022988807157:android:5af55544ffdf0e267d8ebc",
+        "android_client_info": {
+          "package_name": "com.beller.person"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1022988807157-h8gelqd079kv386kk3qq2s3od4gdh075.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.beller.person",
+            "certificate_hash": "8516c258d81f4965b36f37f13606f91c77322b01"
+          }
+        },
+        {
+          "client_id": "1022988807157-7iivle6rs0ctser3qqjer3iq7qf216b9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA2dl7HZmc1_Or63V2R_SwpHgZZY7Gmhgw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1022988807157-7iivle6rs0ctser3qqjer3iq7qf216b9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
